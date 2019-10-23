@@ -8,11 +8,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> Le temps ne respecte pas ce qui se fait sans lui Madame et Monsieur bon.
+          Edit <code>src/App.js</code> Feature2.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://reactjs.org"git
           target="_blank"
           rel="noopener noreferrer"
         >
